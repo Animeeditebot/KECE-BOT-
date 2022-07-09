@@ -30,10 +30,10 @@
     <img align="left" alt="SIEGRIN | Titkok" width="27px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Tiktok.svg" />
   </a> &nbsp;&nbsp;
   <a href="https://www.instagram.com/zeefiveofc/">
-    <img align="left" alt="SIEGRIN | Instagram" widht="24px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Instagram.svg" />
+    <img align="left" alt="SIEGRIN | Instagram" widht="23px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Instagram.svg" />
   </a> &nbsp;&nbsp;
   <a href="mailto: dhiaulhaqsdaffa@gmail.com">
-    <img align="left" alt="SIEGRIN | Gmail" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Gmail.svg" />
+    <img align="left" alt="SIEGRIN | Gmail" widht="25px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Gmail.svg" />
   </a> &nbsp;&nbsp;
 ---------
 
