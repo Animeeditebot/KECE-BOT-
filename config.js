@@ -89,8 +89,8 @@ global.psaweria = 'gaada'
 
 
 /*============== NOMOR ==============*/
-global.nomorbot = '62895241083428'
-global.nomorown = '6289524108342'
+global.nomorbot = '6289524108342'
+global.nomorown = '60147366955'
 global.namebot = 'KECE-BOT'
 global.nameown = 'Zeefiveofc'
 
@@ -99,7 +99,7 @@ global.nameown = 'Zeefiveofc'
 global.owner = [
   ['60147366955'],
   ['601169466091'],
-  ['6289524108342'],
+  ['60147366958']
   ['60147366955', 'kyzo bocil By Putbotz ! 🦖', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
